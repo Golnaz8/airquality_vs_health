@@ -1,419 +1,446 @@
 City,Country
-tiksi,RU
-waitangi,NZ
-thompson,CA
-punta arenas,CL
-carnarvon,AU
-bilibino,RU
-puerto natales,CL
-kulhudhuffushi,MV
-albany,US
-ribeira grande,PT
-touros,BR
-chonchi,CL
-port-aux-francais,TF
-avarua,CK
-hadibu,YE
-arraial do cabo,BR
-nguigmi,NE
-ushuaia,AR
-invercargill,NZ
-tura,IN
-vernon,CA
-blackmans bay,AU
-malanje,AO
-bandarbeyla,SO
-iqaluit,CA
-mbaiki,CF
-narasannapeta,IN
-adamstown,PN
-baley,RU
-vilyuysk,RU
-taulaga,AS
-vrangel',RU
-san fernando del valle de catamarca,AR
-holualoa,US
-grytviken,GS
-beau vallon,MU
-papatowai,NZ
-polyarnyy,RU
-rio grande,BR
-west island,CC
-menongue,AO
-margaret river,AU
-utrik,MH
-harper,LR
-mar del plata,AR
-yatou,CN
-sitka,US
-hermanus,ZA
-kodiak,US
-petropavlovsk-kamchatsky,RU
-happy valley-goose bay,CA
-thunder bay,CA
-bredasdorp,ZA
-aasiaat,GL
-basco,PH
-sao joao da barra,BR
-aktau,KZ
-xinyuan,CN
-talnakh,RU
-chipata,ZM
-hasaki,JP
-ilulissat,GL
-puerto ayora,EC
-geraldton,AU
-humaita,BR
-isla aguada,MX
-safford,US
-skeldon,GY
-ust-nera,RU
-abong mbang,CM
-yellowknife,CA
-olonkinbyen,SJ
-uturoa,PF
-quimili,AR
-gubkinskiy,RU
-edinburgh of the seven seas,SH
-puerto colombia,CO
-villa gesell,AR
-grand falls-windsor,CA
-kavaratti,IN
-saint-francois,FR
-klaksvik,FO
-lahaina,US
-faya-largeau,TD
-amble,GB
-lorengau,PG
-katsuren-haebaru,JP
-nurota,UZ
-weno,FM
-bethel,US
-aketi,CD
-brandon,US
-maintirano,MG
-taveta,KE
-st. john's,CA
-longyearbyen,SJ
-sagua la grande,CU
-amga,RU
-huanuni,BO
-saipan,MP
-sao tome,ST
-pisco,PE
-vuktyl,RU
-port elizabeth,ZA
-susanville,US
-carloforte,IT
-gizo,SB
-punta del este,UY
-rabo de peixe,PT
-sydney mines,CA
-vorgashor,RU
-l'isle-jourdain,FR
-praia da vitoria,PT
-newman,US
-ulysses,US
-daoukro,CI
-prince albert,CA
-wailua homesteads,US
-cabo san lucas,MX
-challapata,BO
-qamdo,CN
-ancud,CL
-ornskoldsvik,SE
-jilib,SO
-al bawiti,EG
-taltal,CL
-kailua-kona,US
-jorpeland,NO
-iskateley,RU
-atafu village,TK
-nogliki,RU
-keflavik,IS
-puerto baquerizo moreno,EC
-malango,ID
-klyuchi,RU
-tougan,BF
-tual,ID
-arteche,PH
-acarau,BR
-port-vila,VU
-kavieng,PG
-santarem,BR
-severo-yeniseyskiy,RU
-colonia,DE
-posto fiscal rolim de moura,BR
-fuerte olimpo,PY
-palikir - national government center,FM
-bich'vinta,GE
-qarah zia' od din,IR
-parfino,RU
-arawa,PG
-enewetak,MH
-balaka,MW
-kijang,KR
-isafjordur,IS
-aluksne,LV
-coracora,PE
-tezu,IN
-khasab,OM
-kolosovka,RU
-lebu,CL
-kapuskasing,CA
-puerto ayacucho,VE
-sidney,AU
-east london,ZA
-korop,UA
-brookings,US
-thinadhoo,MV
-axim,GH
-alice springs,AU
-belmonte,BR
-nelsonville,US
-port alfred,ZA
-qaqortoq,GL
-poronaysk,RU
-lompoc,US
-nchelenge,ZM
-akureyri,IS
-margate,GB
-anadyr,RU
-el porvenir,HN
-fale old settlement,TK
-georgetown,MY
-puerto carreno,CO
-zykovo,RU
-nakhon thai,TH
-luganville,VU
-piti village,GU
-francistown,BW
-kirensk,RU
-xining,CN
-shibirghan,AF
-port lincoln,AU
-yuzhno-kurilsk,RU
-poiana teiului,RO
-hamilton,US
-karratha,AU
-vorkuta,RU
+san vincenzo,IT
 san patricio,US
-pacific grove,US
-viitasaari,FI
-great falls,US
-hampton bays,US
-zeya,RU
-saint-philippe,RE
-zakynthos,GR
-camocim,BR
-darwin,AU
-port said,EG
-port mathurin,MU
-ixtapa,MX
-santiago papasquiaro,MX
-remire-montjoly,GF
-balkanabat,TM
-mata-utu,WF
-kenora,CA
-santa cruz,BO
-jacksonville beach,US
-sinop,TR
-lihue,US
-christchurch,NZ
-tonghae,KR
-mirnyy,RU
-kostomuksha,RU
-siwa oasis,EG
-rouissat,DZ
-muslyumovo,RU
-vadso,NO
-queenstown,ZA
-dazhou,CN
-beledweyne,SO
-badger,US
-cadale,SO
-udachny,RU
-rutana,BI
-astorga,BR
-eraan,PH
-dudinka,RU
-jwaneng,BW
-kachug,RU
-amursk,RU
-dunedin,NZ
-haiku-pauwela,US
-paracuru,BR
-lucon,FR
-thabazimbi,ZA
-alaghsas,NE
-oranjemund,NA
-stanley,GB
-whitehorse,CA
-mandera,KE
-staryy dobrotvir,UA
-caleta de carquin,PE
-nar'yan-mar,RU
-yeniseysk,RU
-pospelikha,RU
-fiche,ET
-domanivka,UA
-tannum sands,AU
-alotau,PG
-egilsstadir,IS
-hawaiian paradise park,US
-port blair,IN
-azhikkal,IN
-bikenibeu village,KI
-at-bashi,KG
-atar,MR
-bamboo flat,IN
-korba,IN
-grajau,BR
-necochea,AR
-jamestown,US
-lerwick,GB
-galliano,US
-bayanaul,KZ
-kone,NC
-bankim,CM
-belomorsk,RU
-rurrenabaque,BO
-mawu,CN
-nova olimpia,BR
-mazatlan,MX
-huron,US
-kikwit,CD
-dwarka,IN
-sidi qacem,MA
-puerto armuelles,PA
-chernyshevskiy,RU
-aioun,MR
-griffith,US
-raduzhnyy,RU
-mogocha,RU
-port saint john's,ZA
-vilyuchinsk,RU
-revda,RU
-lanark,GB
-tadine,NC
-qingdao,CN
-rzhev,RU
-hithadhoo,MV
+beira,MZ
+yeppoon,AU
+anak,KP
 constantia,RO
-ta`u,AS
-bodo,NO
-vila franca do campo,PT
-villamontes,BO
-ust-tsilma,RU
-wabag,PG
-gering,US
-thames,NZ
-launceston,AU
-salvador,SV
-iguaba grande,BR
-sept-iles,CA
-gornyak,RU
-nikolayevka,RU
-buenos aires,AR
-wotho,MH
-christiana,ZA
-ust'-kut,RU
-castillos,UY
-teknaf,BD
-yantzaza,EC
-penzance,GB
-chibougamau,CA
-bechar,DZ
-songea,TZ
-la'ie,US
-caconda,AO
-pokrovsk,UA
-camana,PE
-middle island,US
-burgersdorp,ZA
-portland,US
-new whiteland,US
-an muileann gcearr,IE
-east ballina,AU
+kodiak,US
+guerrero negro,MX
+tiksi,RU
+margaret river,AU
+port-aux-francais,TF
+bilibino,RU
+taunggyi,MM
 aykhal,RU
-calvi,FR
-suva,FJ
-ad dindar,SD
-armacao de buzios,BR
-visakhapatnam,IN
-veraval,IN
-hanceville,US
-selfoss,IS
-moree,AU
-woolgoolga,AU
-tukrah,LY
-minas de marcona,PE
-tambacounda,SN
-swift current,CA
-igarka,RU
-novo aripuana,BR
-toliara,MG
-mercedes,AR
-santo antonio,BR
-sinabang,ID
-gambela,ET
-sutherlin,US
-arno,SE
-meizhou,CN
-mejit,MH
-utete,TZ
-hovd,MN
-panama city beach,US
-kelso,US
-garissa,KE
-new norfolk,AU
-tempio pausania,IT
+pacific grove,US
+inongo,CD
+college,US
+ushuaia,AR
+hawkesbury,CA
+knyaze-volkonskoye,RU
+selkirk,CA
+west end,BS
+ust-nera,RU
+eraan,PH
+puerto natales,CL
+punta arenas,CL
+san antonio de pale,GQ
+bethel,US
+santa rosa de copan,HN
+caleta de carquin,PE
+adamstown,PN
+haiku-pauwela,US
+olonkinbyen,SJ
+puerto ayora,EC
+podporozh'ye,RU
+massenya,TD
+gwadar,PK
+blackmans bay,AU
+invercargill,NZ
+papatowai,NZ
+hermanus,ZA
+qaqortoq,GL
+port moresby,PG
+port elizabeth,ZA
+grytviken,GS
+thompson,CA
+lapy,PL
+galveston,US
+ponta delgada,PT
+carloforte,IT
+st. john's,CA
+nagrota,IN
+hamilton,US
+mareeba,AU
+holualoa,US
+grootfontein,NA
+lihue,US
+el granada,US
+keflavik,IS
+ribeira grande,PT
+wailua homesteads,US
+iqaluit,CA
+west island,CC
+aromashevo,RU
+vorgashor,RU
+freetown,SL
+quepos,CR
+yellowknife,CA
+perevolotskiy,RU
+longyearbyen,SJ
+iquique,CL
+badger,US
+polyarnyy,RU
+sao felix do xingu,BR
+gazipasa,TR
+laguna,US
+ilulissat,GL
+albany,US
+santa terezinha,BR
+arafo,ES
+togur,RU
+chos malal,AR
+vila franca do campo,PT
+howard springs,AU
+waitangi,NZ
+yemetsk,RU
+general conesa,AR
+talnakh,RU
+mayya,RU
 nemuro,JP
-mascote,BR
-tynda,RU
-inarajan village,GU
-marivan,IR
+pamanukan,ID
+fortuna,US
+yichun,CN
 morehead city,US
-cockburn town,TC
-thai nguyen,VN
-chulym,RU
+strelka,RU
+dudinka,RU
+tura,IN
+kisangani,CD
+port mathurin,MU
+bredasdorp,ZA
+akrehamn,NO
+edinburgh of the seven seas,SH
+saint-francois,FR
+lebu,CL
+fortaleza,BR
+atafu village,TK
+manay,PH
+valparaiso,CL
+stanley,GB
+waingapu,ID
+ust'-ilimsk,RU
+kargasok,RU
+fort st. john,CA
+tazovsky,RU
+kokopo,PG
+shasta lake,US
+bikenibeu village,KI
+namibe,AO
 susuman,RU
-hobyo,SO
-siracusa,IT
-cannonvale,AU
-afaahiti,PF
-pskov,RU
-greymouth,NZ
-port macquarie,AU
-westport,US
-svetlyy,RU
-oujda-angad,MA
-codrington,AU
-howrah,IN
-kingston,JM
-aral,CN
+mogadishu,SO
+ryotsu-minato,JP
+pustoshka,RU
+alice springs,AU
+san antonio,US
+georgetown,MY
+garoowe,SO
+yigo village,GU
+patnongon,PH
+sirte,LY
+cabedelo,BR
+hithadhoo,MV
+tangalle,LK
+nar'yan-mar,RU
 mount gambier,AU
-okhotsk,RU
-rosamond,US
-puerto vilelas,AR
-nema,RU
+luwuk,ID
+sultanah,SA
+avarua,CK
+lompoc,US
+gadzhiyevo,RU
+kavaratti,IN
+takestan,IR
+dhidhdhoo,MV
+queenstown,ZA
+chinchilla,AU
+esme,TR
+odzak,BA
+san jose,US
+prince rupert,CA
+howrah,IN
+undurkhaan,MN
+cockburn town,TC
+yeniseysk,RU
+kangiwa,NG
+wau,SS
+male,MV
+ouadda,CF
+zapata,US
+klaksvik,FO
+aasiaat,GL
+tome acu,BR
+vila velha,BR
+petropavlovsk-kamchatsky,RU
+goure,NE
+isafjordur,IS
+utrik,MH
+sena madureira,BR
+katsuura,JP
+uliastay,MN
+jamestown,US
+newman,US
+beidaihehaibin,CN
+kabalo,CD
+yerofey pavlovich,RU
+puerto aysen,CL
+praia da vitoria,PT
+hauterive,FR
+imuris,MX
+minas de marcona,PE
+piacabucu,BR
+bandon,IE
+hangu,CN
+san julian,MX
+mhamid,MA
+uturoa,PF
+sandnessjoen,NO
+slavyanka,RU
+saint-felicien,CA
+prado,BR
+mingyue,CN
+uyuni,BO
+alvaraes,BR
+severoural'sk,RU
+anadyr,RU
+angaur state,PW
+lossiemouth,GB
+le grazie di ancona,IT
+marathon,US
+kingston,JM
+yarmouth,US
+sibi,PK
+bengkulu,ID
+ambovombe,MG
+chernyshevskiy,RU
+sola,VU
+borogontsy,RU
+coahuayana de hidalgo,MX
+port alfred,ZA
+udachny,RU
+coquimbo,CL
+barra de santo antonio,BR
+la ronge,CA
+sinabang,ID
+port douglas,AU
+mount isa,AU
+al bardiyah,LY
+enewetak,MH
+codrington,AU
+barclayville,LR
+miracema do tocantins,BR
+tarawa,KI
+ancud,CL
 nadi,FJ
+el calafate,AR
+lagoa,PT
+olyokminsk,RU
+watsa,CD
+kruisfontein,ZA
+fuyu,CN
+hasaki,JP
+mana,GF
+suva,FJ
+yuzhno-kurilsk,RU
+flying fish cove,CX
+awash,ET
+bel ombre,SC
+touros,BR
+vorkuta,RU
+kabare,CD
+aripuana,BR
+vernon,CA
+arraial do cabo,BR
+luba,GQ
+la leonesa,AR
+kismayo,SO
+koungou,YT
+east london,ZA
+sunne,SE
+saint-philippe,RE
+rumbek,SS
+tham phannara,TH
+whakatane,NZ
+goderich,CA
+saipan,MP
+bubaque,GW
+mata-utu,WF
+nova sintra,CV
+kenora,CA
+nabire,ID
+haicheng,CN
+melfort,CA
+binnish,SY
+saldanha,ZA
+qina,EG
+murzuq,LY
+ola,RU
+cabo san lucas,MX
+tofol,FM
+anloga,GH
+bandar lampung,ID
+hawaiian paradise park,US
+delijan,IR
+whitehorse,CA
+serowe,BW
+colonia,DE
+seaside,US
+tommot,RU
+kembe,CF
+nhamunda,BR
+natal,BR
+al matariyah,EG
+hell-ville,MG
+kourou,GF
+shortandy,KZ
+escarcega,MX
+kapuskasing,CA
+musanze,RW
+nadym,RU
+camana,PE
+dzhalagash,KZ
+lawas,PH
+gosaba,IN
+siuna,NI
+port lincoln,AU
+noshiro,JP
+pahrump,US
+inhambane,MZ
+sorokino,RU
+carutapera,BR
+sur,OM
+didymoteicho,GR
+kearney,US
+larbaa,DZ
+grenville,GD
+nuku'alofa,TO
+pangody,RU
+tromso,NO
+labytnangi,RU
+toliara,MG
+shagonar,RU
+valdivia,CL
+sao joao da barra,BR
+antofagasta,CL
+general pico,AR
+burgos,ES
+crane,US
+cascais,PT
+ma'rib,YE
+lata,PT
+pontes e lacerda,BR
+port saint john's,ZA
+nguigmi,NE
+hillsboro,US
+itoman,JP
+bijapur,IN
+nouadhibou,MR
+kuta,ID
+shimoda,JP
+kone,NC
+egilsstadir,IS
+pisco,PE
+gorontalo,ID
+hegang,CN
+kashgar,CN
+san pedro pochutla,MX
+dunedin,NZ
+heinola,FI
+newnham,AU
+okha,RU
+carnarvon,AU
+grand-bassam,CI
+happy valley-goose bay,CA
+sitka,US
+murun-kuren,MN
+bavly,RU
+yurga,RU
+aldinga beach,AU
 kapa'a,US
-edson,CA
-venustiano carranza,MX
-hachinohe,JP
-mawlamyinegyunn,MM
-pudasjarvi,FI
-vodnyy,RU
-richfield,US
-thouars,FR
-la passe,FR
-ilheus,BR
-safotu,WS
-callao,PE
-cananea,MX
-kerikeri,NZ
-balabac,PH
-albertina,BR
-belyy yar,RU
-hirara,JP
+dryden,CA
+rudsar,IR
+revda,RU
+la sarre,CA
+kamikawa,JP
+harstad,NO
+chinde,NP
+neiafu,TO
+jiagedaqi,CN
+lancaster,US
+tolanaro,MG
+sokcho,KR
+aras-asan,PH
+kitami,JP
+alofi,NU
+papao,PF
+wenchang,CN
+aral,CN
+mount pleasant,US
+kirensk,RU
+nogliki,RU
+dabakala,CI
+shalqar,KZ
+mitu,CO
+guidel-plage,FR
+tvoroyri,FO
+nyaunglebin,MM
+xai-xai,MZ
+soio,AO
+hadibu,YE
+tsetserleg,MN
+homer,US
+san carlos centro,AR
+sao miguel do araguaia,BR
+samdrup jongkhar,BT
+lodja,CD
+argo,GR
+lincoln city,US
+castillos,UY
+repelon,CO
+realico,AR
+hami,CN
+pambujan,PH
+geraldton,AU
+katsuren-haebaru,JP
+yanchep,AU
+ndele,CF
+meadow lake,US
+arno,SE
+kristiansund,NO
+charlotte amalie,VI
+anguillara sabazia,IT
+leer,DE
+afaahiti,PF
+naga,PH
+urangan,AU
+piatykhatky,UA
+celestun,MX
+new norfolk,AU
+manokwari,ID
+nipomo,US
+rongelap,MH
+abadeh,IR
+taiynsha,KZ
+bairnsdale,AU
+wanning,CN
+ashoknagar,IN
+gokwe,ZW
+bridgetown,BB
+ruteng,ID
+kanniyakumari,IN
+mikhaylovskoye,RU
+anna regina,GY
+harlingen,US
+chibougamau,CA
+djenne,ML
+bardai,NG
+serdar,TM
+glace bay,CA
+sechura,PE
+mufumbwe,ZM
+abbeville,FR
+grand falls-windsor,CA
+bathsheba,BB
+bonthe,SL
+lorengau,PG
+malvan,IN
+villa gesell,AR
+leninskiy,RU
+didim,TR
+suntar,RU
+antsiranana,MG
+ghat,LY
+mont-laurier,CA
+qarqaraly,KZ
+fort bragg,US
+bodo,NO
+saudarkrokur,IS
