@@ -64,6 +64,14 @@ Open the notebook file and run the cells step by step to explore the data, visua
 ## Screenshots
 File will be saved into Picture_for_Presentation folder. (Not all the pictures will be saved into that folder, more graphs with different analysis will be inisde data_exploration.ipynb)
 
+<img width="482" alt="image" src="https://github.com/user-attachments/assets/a551fcd0-3574-4599-a1ad-67d913aed7ea">
+
+<img width="480" alt="image" src="https://github.com/user-attachments/assets/0d870657-48bf-4d91-af17-c39a946191ae">
+
+<img width="546" alt="image" src="https://github.com/user-attachments/assets/b6079127-d974-4858-986c-9ac8eaa0f305">
+
+<img width="686" alt="image" src="https://github.com/user-attachments/assets/6e108d9f-b867-43e5-800e-e8a256c7dd51">
+
 
 
 ## Technologies Used
