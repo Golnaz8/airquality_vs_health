@@ -3,7 +3,11 @@ Air quality impact on mortality rate
 
 ## Overview
 
-The goal of the project is to evaluate how seven key air pollutants—PM2.5, PM10, NO2, O3, SO2, CO, and NH3—affect mortality rates. This includes investigating whether higher levels of these pollutants correlate with increased mortality, using air pollution data and mortality statistics across different countries.
+The goal of the project is to evaluate how seven keys air pollutants—PM2.5, PM10, NO2, O3, SO2, CO, and NH3—affect mortality rates. These includes investigating whether higher levels of these pollutants correlate with increased mortality, using air pollution data and mortality statistics across different countries.
+
+Data is collected from national sources(details in Data Resources) focusing on both pollutant levels and corresponding mortality rates. After cleaning the data, a correlation analysis will explore the relationship between pollution and mortality, with the results presented through graphs and maps to highlight any significant trends.
+
+In conclusion, although CO may have the highest pollutant levels, PM10 and PM2.5 show the strongest correlations with increased mortality rates. Additionally, other factors, such as hygiene, also play a significant role in influencing mortality, complicating the relationship between pollution levels and health outcomes. These findings suggest that while air pollution is a key factor, broader environmental and public health conditions must be considered when addressing mortality risks.
 
 ## Table of Contents
 
@@ -58,6 +62,8 @@ Open the notebook file and run the cells step by step to explore the data, visua
 
 
 ## Screenshots
+File will be saved into Picture_for_Presentation folder. (Not all the pictures will be saved into that folder, more graphs with different analysis will be inisde data_exploration.ipynb)
+
 
 
 ## Technologies Used
@@ -78,7 +84,7 @@ This project leverages several technologies to process and analyze election data
 This project was independently developed by the following developers:
 <br><br />
 
-**Yiheng Jun**:
+**Yiheng Sun**:
 
 - **Github**: [@Sait0uAsuka](https://github.com/Sait0uAsuka)
   <br><br />
