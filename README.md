@@ -1,3 +1,12 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/) 
+[![matplotlib](https://img.shields.io/badge/matplotlib-3.4.2-orange.svg)](https://matplotlib.org/stable/users/installing.html) 
+[![hvPlot](https://img.shields.io/badge/hvPlot-0.8.0-green.svg)](https://hvplot.holoviz.org/getting_started/index.html) 
+[![pandas](https://img.shields.io/badge/pandas-1.3.3-red.svg)](https://pandas.pydata.org/) 
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-6.3.0-brightgreen.svg)](https://jupyter.org/install)
+
+
+
 # airquality_vs_health
 Air quality impact on mortality rate
 
@@ -64,13 +73,14 @@ Open the notebook file and run the cells step by step to explore the data, visua
 ## Screenshots
 File will be saved into Picture_for_Presentation folder. (Not all the pictures will be saved into that folder, more graphs with different analysis will be inisde data_exploration.ipynb)
 
-<img width="482" alt="image" src="https://github.com/user-attachments/assets/a551fcd0-3574-4599-a1ad-67d913aed7ea">
 
-<img width="480" alt="image" src="https://github.com/user-attachments/assets/0d870657-48bf-4d91-af17-c39a946191ae">
+<img width="284" alt="image" src="https://github.com/user-attachments/assets/2aca8961-547b-45e4-a0a7-19a4b983fad3">
 
-<img width="546" alt="image" src="https://github.com/user-attachments/assets/b6079127-d974-4858-986c-9ac8eaa0f305">
+<img width="317" alt="image" src="https://github.com/user-attachments/assets/9a912e4c-4896-45e9-9212-1a59200a23f5">
 
-<img width="686" alt="image" src="https://github.com/user-attachments/assets/6e108d9f-b867-43e5-800e-e8a256c7dd51">
+<img width="537" alt="image" src="https://github.com/user-attachments/assets/ee6a0bec-524b-4e6f-b4a4-ef26c1ba955a">
+
+<img width="457" alt="image" src="https://github.com/user-attachments/assets/7165c58c-00b7-4567-9c65-90195e11ecad">
 
 
 
