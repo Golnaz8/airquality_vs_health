@@ -99,7 +99,7 @@ This project was independently developed by the following developers:
 
 **Amina Mahfoud**:
 
-- **Github**: [@Amina-MAHFOUD](https://www.linkedin.com/in/Amina-MAHFOUD)
+- **Github**: [@Amina-MAHFOUD](https://github.com/Amina-MAHFOUD)
   <br><br />
 
 **Navdeep Grewal**:
