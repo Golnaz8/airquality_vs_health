@@ -1,0 +1,399 @@
+City,Country,PM2.5,PM10,NO2,O3,SO2,CO,NH3,MortalityRate_per_100k,CountryName,Continent
+abbeville,FR,4.7,8.8,4.7,36.8,0.8,210.3,1.3,4.1,France,Europe
+acarau,BR,2.1,9.6,0.2,52.2,0.1,353.8,0.1,9.6,Brazil,South America
+agbor,NG,29.9,39.2,5.7,2.5,0.4,894.6,0.6,29.6,Nigeria,Africa
+al jawf,SA,11.1,39.2,1.0,101.6,1.7,193.6,0.5,33.5,Saudi Arabia,Asia
+al qusayr,SY,7.9,10.0,4.7,40.8,2.5,210.3,2.7,26.6,Syrian Arab Republic,Asia
+alaghsas,NE,63.9,271.8,0.0,53.6,0.0,196.9,0.0,34.1,Niger,Africa
+albany,US,2.1,2.6,12.8,24.7,0.1,253.7,0.1,5.7,United States,North America
+alice springs,AU,14.5,61.3,0.1,50.1,0.0,283.7,0.2,3.2,Australia,Oceania
+aliveri,GR,1.1,4.3,0.4,78.0,0.2,200.3,0.2,9.8,Greece,Europe
+alliance,US,13.4,16.2,21.9,24.3,0.5,367.2,0.6,5.7,United States,North America
+almeirim,BR,1.0,2.4,0.1,26.8,0.1,343.8,0.0,9.6,Brazil,South America
+alotau,PG,1.6,2.1,0.1,34.7,0.1,207.0,0.0,12.4,Papua New Guinea,Oceania
+alta,NO,0.5,0.5,0.4,41.5,0.0,210.3,0.0,3.6,Norway,Europe
+amahai,ID,0.9,1.1,0.6,24.0,0.1,283.7,0.0,20.4,Indonesia,Asia
+ambikapur,IN,31.6,34.0,0.7,107.3,1.2,454.0,0.7,30.2,India,Asia
+ambon,ID,1.1,1.8,0.5,28.2,0.3,270.4,0.1,20.4,Indonesia,Asia
+amos,CA,2.7,2.8,1.3,62.2,0.7,212.0,0.0,3.4,Canada,North America
+anadyr,RU,0.7,2.1,0.7,60.8,0.4,223.6,0.0,17.4,Russian Federation,Europe
+ancud,CL,0.6,1.1,0.2,49.4,0.0,240.3,0.2,7.4,Chile,South America
+angra do heroismo,PT,2.2,10.6,0.3,100.1,0.2,201.9,0.0,4.7,Portugal,Europe
+argo,GR,2.5,4.3,0.7,66.5,0.1,205.3,0.3,9.8,Greece,Europe
+arkalyk,KZ,8.1,8.5,2.7,24.3,1.2,233.6,0.0,30.5,Kazakhstan,Asia
+arraial do cabo,BR,9.1,18.8,5.6,41.5,0.5,270.4,1.2,9.6,Brazil,South America
+ataq,YE,42.1,165.7,1.0,55.8,1.1,203.6,0.2,36.5,Yemen,Asia
+aykhal,RU,0.5,0.5,0.0,57.2,0.0,223.6,0.0,17.4,Russian Federation,Europe
+badger,US,0.5,0.6,5.1,51.5,1.1,257.0,0.2,5.7,United States,North America
+balabac,PH,0.8,1.3,0.3,47.9,0.1,393.9,0.0,29.4,Philippines,Asia
+ballina,AU,2.6,6.3,0.8,66.5,1.1,230.3,0.7,3.2,Australia,Oceania
+bam,IR,18.9,52.6,25.4,66.5,3.1,327.1,0.8,17.1,"Iran, Islamic Republic of",Asia
+bamboo flat,IN,0.6,0.9,1.2,44.4,0.2,230.3,0.0,30.2,India,Asia
+banjarmasin,ID,9.0,10.5,1.4,72.2,5.0,514.0,1.3,20.4,Indonesia,Asia
+barclayville,LR,2.4,3.2,0.3,8.3,0.1,300.4,0.5,22.4,Liberia,Africa
+bathurst,AU,2.0,2.1,0.1,32.5,0.2,250.3,0.1,3.2,Australia,Oceania
+bayt al faqih,YE,52.2,125.8,2.5,50.8,2.4,210.3,0.3,36.5,Yemen,Asia
+beeville,US,4.2,7.1,0.7,90.8,0.6,217.0,0.7,5.7,United States,North America
+belmonte,BR,2.0,8.6,0.3,30.4,0.1,280.4,0.1,9.6,Brazil,South America
+belyy yar,RU,2.6,3.0,3.4,36.1,1.9,263.7,1.1,17.4,Russian Federation,Europe
+bennington,US,0.8,1.0,3.5,53.6,0.0,213.6,0.1,5.7,United States,North America
+berdigestyakh,RU,0.5,0.5,0.2,52.2,0.0,230.3,0.0,17.4,Russian Federation,Europe
+bereznik,RU,0.7,0.8,0.6,50.1,0.1,220.3,0.0,17.4,Russian Federation,Europe
+berriozabal,MX,4.8,4.9,1.3,26.5,0.1,260.4,0.3,10.7,Mexico,North America
+bethel,US,1.4,1.9,4.5,74.4,0.3,227.0,0.4,5.7,United States,North America
+betioky,MG,3.0,4.7,0.4,35.8,0.1,240.3,0.8,21.1,Madagascar,Africa
+beyneu,KZ,14.8,43.2,0.2,64.4,0.6,223.6,0.1,30.5,Kazakhstan,Asia
+big bend,SZ,5.0,13.4,1.4,28.2,0.2,323.8,0.6,26.0,Eswatini,Africa
+bilibino,RU,0.5,0.5,0.1,60.8,0.1,220.3,0.0,17.4,Russian Federation,Europe
+biloela,AU,2.1,6.3,0.1,56.5,0.7,223.6,0.0,3.2,Australia,Oceania
+blackmans bay,AU,1.9,2.1,1.0,43.3,0.2,213.6,0.2,3.2,Australia,Oceania
+bodaybo,RU,0.5,0.5,0.0,62.9,0.0,223.6,0.0,17.4,Russian Federation,Europe
+bodo,NO,1.0,1.4,1.2,72.2,0.4,233.6,0.0,3.6,Norway,Europe
+bondoukou,CI,5.6,6.2,0.9,8.8,0.0,433.9,0.2,32.9,Côte d'Ivoire,Africa
+bredasdorp,ZA,0.8,2.2,0.5,55.1,0.2,230.3,0.2,18.7,South Africa,Africa
+brisas de zicatela,MX,6.9,7.6,3.7,14.5,0.3,243.7,0.8,10.7,Mexico,North America
+broken hill,AU,1.9,4.5,0.1,55.8,0.6,287.1,0.2,3.2,Australia,Oceania
+brookings,US,4.8,5.4,1.8,90.8,0.8,220.3,1.8,5.7,United States,North America
+bure,ET,21.5,44.0,3.2,39.3,1.0,360.5,10.3,17.1,Ethiopia,Africa
+burutu,NG,0.8,1.2,0.8,23.6,0.1,343.8,0.3,29.6,Nigeria,Africa
+bushehr,IR,77.3,137.1,12.5,97.3,5.5,534.1,0.6,17.1,"Iran, Islamic Republic of",Asia
+ca mau,VN,2.8,3.2,1.0,41.8,0.4,333.8,1.7,18.8,Viet Nam,Asia
+cabo san lucas,MX,2.1,6.2,2.7,64.4,0.4,198.6,1.2,10.7,Mexico,North America
+cabugao,PH,3.8,4.4,0.4,64.4,0.3,250.3,1.9,29.4,Philippines,Asia
+cadale,SO,2.0,9.2,0.0,35.4,0.1,230.3,0.0,23.0,Somalia,Africa
+caister-on-sea,GB,5.7,7.7,9.2,17.7,0.5,213.6,1.6,5.8,United Kingdom,Europe
+callao,PE,14.8,27.1,26.7,22.9,16.9,480.6,3.4,9.6,Peru,South America
+campoverde,PE,10.9,11.4,0.4,3.1,0.1,303.8,0.3,9.6,Peru,South America
+canmore,CA,0.5,0.5,0.6,68.0,0.1,188.6,0.0,3.4,Canada,North America
+cannonvale,AU,2.5,8.4,1.2,88.7,2.4,223.6,0.0,3.2,Australia,Oceania
+carnarvon,AU,3.4,17.4,0.0,37.2,0.1,230.3,0.5,3.2,Australia,Oceania
+cartagena,CO,5.1,6.5,2.9,68.0,0.8,327.1,0.1,8.9,Colombia,South America
+casper,US,1.1,6.2,1.8,73.7,0.3,185.2,0.7,5.7,United States,North America
+castillos,UY,2.4,3.4,1.6,19.3,0.1,240.3,3.1,6.4,Uruguay,South America
+cestos city,LR,3.0,3.7,0.2,2.9,0.0,260.4,0.3,22.4,Liberia,Africa
+cheria,DZ,1.7,3.5,0.6,61.5,0.1,191.9,0.1,16.6,Algeria,Africa
+childress,US,5.0,5.9,1.0,89.4,0.9,220.3,1.0,5.7,United States,North America
+chimore,BO,18.7,18.9,0.8,0.6,0.0,654.2,0.6,18.7,"Bolivia, Plurinational State of",South America
+chonchi,CL,0.8,1.1,0.7,19.1,0.0,210.3,0.2,7.4,Chile,South America
+cidade velha,CV,10.8,68.4,0.3,52.2,0.4,203.6,0.1,17.1,Cabo Verde,Africa
+cidreira,BR,2.2,4.3,1.1,50.8,0.2,247.0,0.4,9.6,Brazil,South America
+ciudad lazaro cardenas,MX,21.2,23.2,18.2,31.1,13.2,514.0,0.6,10.7,Mexico,North America
+clanton,US,3.1,6.0,9.3,34.0,1.1,257.0,0.5,5.7,United States,North America
+clovis,US,5.4,6.2,1.4,111.6,0.7,223.6,0.8,5.7,United States,North America
+codrington,AU,1.5,1.7,1.1,31.5,1.0,293.7,0.1,3.2,Australia,Oceania
+coffs harbour,AU,2.6,5.0,0.4,46.5,0.3,210.3,0.2,3.2,Australia,Oceania
+cole harbour,CA,0.7,1.0,2.6,68.0,0.8,220.3,0.2,3.4,Canada,North America
+college,US,0.5,0.6,1.8,56.5,0.0,233.6,0.0,5.7,United States,North America
+colonia,DE,19.4,22.0,13.9,0.0,4.0,363.8,1.7,6.9,Germany,Europe
+conceicao da barra,BR,1.9,7.2,0.7,32.2,0.1,283.7,0.2,9.6,Brazil,South America
+constantia,RO,0.8,1.1,1.7,65.8,1.5,223.6,0.8,18.5,Romania,Europe
+copiapo,CL,14.4,32.7,4.0,56.5,2.9,287.1,0.0,7.4,Chile,South America
+coquimbo,CL,4.5,10.0,0.9,47.2,0.5,237.0,0.1,7.4,Chile,South America
+correntina,BR,1.8,1.8,0.3,8.8,0.0,327.1,0.7,9.6,Brazil,South America
+corund,RO,2.5,3.3,2.4,40.0,0.3,233.6,3.1,18.5,Romania,Europe
+cudillero,ES,0.9,2.5,0.8,68.7,0.3,205.3,0.8,4.2,Spain,Europe
+dadhar,PK,31.6,91.8,14.2,74.4,1.6,454.0,8.9,39.1,Pakistan,Asia
+dalandzadgad,MN,3.1,19.9,0.1,89.4,0.3,191.9,0.0,44.3,Mongolia,Asia
+debre tabor,ET,28.6,58.4,2.6,58.6,1.5,343.8,10.8,17.1,Ethiopia,Africa
+doka,SD,16.5,33.1,1.6,5.9,0.2,176.9,1.1,24.8,Sudan,Africa
+dom pedrito,BR,4.4,5.4,2.0,34.3,0.6,263.7,1.5,9.6,Brazil,South America
+dunedin,NZ,1.8,3.1,0.7,63.7,0.5,217.0,1.4,4.3,New Zealand,Oceania
+east london,ZA,1.9,4.5,1.1,57.2,1.4,233.6,0.6,18.7,South Africa,Africa
+edd,ER,52.0,123.3,0.2,73.0,0.5,188.6,0.0,28.2,Eritrea,Africa
+effingham,US,3.9,4.3,3.3,49.4,0.4,230.3,0.4,5.7,United States,North America
+egilsstadir,IS,0.6,1.0,0.2,47.9,0.0,217.0,0.1,3.6,Iceland,Europe
+el calafate,AR,0.5,0.7,0.7,36.8,0.0,243.7,1.4,10.7,Argentina,South America
+el tocuyo,VE,0.7,0.9,2.2,8.4,0.2,313.8,0.4,12.8,"Venezuela, Bolivarian Republic of",South America
+elverum,NO,4.2,4.2,0.7,36.5,0.0,198.6,0.1,3.6,Norway,Europe
+enchanted hills,US,2.7,7.6,2.1,78.7,0.4,190.3,0.9,5.7,United States,North America
+fada,NG,96.3,128.2,12.2,0.0,5.0,2082.8,9.6,29.6,Nigeria,Africa
+filey,GB,3.6,4.9,6.9,39.7,1.6,217.0,1.1,5.8,United Kingdom,Europe
+fisterra,ES,2.0,3.6,1.8,86.6,1.0,212.0,0.0,4.2,Spain,Europe
+florida,US,2.8,4.6,2.5,78.0,2.6,223.6,0.3,5.7,United States,North America
+formosa,AR,8.2,8.4,0.9,35.4,0.4,527.4,0.5,10.7,Argentina,South America
+fort bragg,US,2.7,5.0,5.1,40.0,0.4,233.6,1.5,5.7,United States,North America
+fuling,CN,80.2,84.6,8.9,107.3,8.9,814.4,2.1,26.6,China,Asia
+fuwwah,EG,8.8,19.7,1.0,101.6,1.0,207.0,1.5,36.2,Egypt,Africa
+gamay,PH,0.5,0.7,0.6,33.3,0.2,173.6,0.2,29.4,Philippines,Asia
+gamba,GA,2.4,3.9,0.0,21.8,0.1,347.1,0.0,19.5,Gabon,Africa
+garoua boulai,CM,0.5,0.6,0.0,0.9,0.0,250.3,0.0,38.3,Cameroon,Africa
+georgetown,MY,2.5,4.0,1.6,42.6,1.0,310.4,0.3,20.9,Malaysia,Asia
+ghat,LY,23.3,103.8,0.9,62.2,0.2,208.6,0.0,17.6,Libya,Africa
+gizo,SB,0.6,1.2,0.0,27.9,0.1,220.3,0.0,19.0,Solomon Islands,Oceania
+gopalpur,IN,5.8,8.1,3.0,32.9,2.1,330.4,2.2,30.2,India,Asia
+grand falls-windsor,CA,0.5,1.4,0.2,76.5,0.1,212.0,0.0,3.4,Canada,North America
+grand forks,US,7.9,11.0,2.2,70.8,0.8,240.3,2.0,5.7,United States,North America
+grand gaube,MU,1.7,4.8,2.6,55.1,2.5,260.4,0.9,9.9,Mauritius,Africa
+guerrero negro,MX,1.8,4.5,1.2,86.6,0.7,203.6,0.0,10.7,Mexico,North America
+guigang,CN,63.1,70.6,20.6,51.5,22.9,413.9,0.0,26.6,China,Asia
+hadibu,YE,3.8,14.9,0.7,19.7,0.3,230.3,0.0,36.5,Yemen,Asia
+haiku-pauwela,US,2.2,7.1,0.2,61.5,0.1,190.3,0.0,5.7,United States,North America
+hami,CN,54.4,297.4,3.4,68.0,1.1,208.6,1.5,26.6,China,Asia
+hamilton,US,23.0,27.2,66.5,0.1,1.2,680.9,1.4,5.7,United States,North America
+hanceville,US,3.1,8.9,7.7,23.2,0.1,260.4,10.5,5.7,United States,North America
+hancheng,CN,44.2,48.5,23.0,21.6,7.9,734.3,2.3,26.6,China,Asia
+happy valley-goose bay,CA,0.5,0.6,0.0,60.1,0.0,220.3,0.0,3.4,Canada,North America
+hastings,GB,4.1,7.2,8.4,26.5,2.0,201.9,0.5,5.8,United Kingdom,Europe
+hawaiian paradise park,US,2.6,10.4,0.5,56.5,1.8,188.6,0.0,5.7,United States,North America
+hazleton,US,1.9,2.3,4.7,51.5,0.4,230.3,0.2,5.7,United States,North America
+hermanus,ZA,0.5,1.6,0.3,53.6,0.3,227.0,0.1,18.7,South Africa,Africa
+hithadhoo,MV,1.5,7.8,0.0,47.9,0.1,227.0,0.0,11.0,Maldives,Asia
+hobyo,SO,2.4,12.2,0.0,35.0,0.1,217.0,0.0,23.0,Somalia,Africa
+holualoa,US,24.9,27.2,1.0,69.4,21.7,203.6,0.0,5.7,United States,North America
+hosdurga,IN,10.5,12.4,6.7,25.8,0.6,460.6,2.6,30.2,India,Asia
+howrah,IN,93.4,120.3,31.5,16.4,25.8,1215.0,8.2,30.2,India,Asia
+huangmei,CN,49.5,54.5,48.7,22.2,13.0,1161.6,0.0,26.6,China,Asia
+huarmey,PE,5.8,14.7,0.8,57.9,0.2,230.3,0.0,9.6,Peru,South America
+igarka,RU,0.5,1.5,0.2,67.2,0.1,227.0,0.0,17.4,Russian Federation,Europe
+igrim,RU,0.5,0.5,0.2,47.2,0.0,237.0,0.0,17.4,Russian Federation,Europe
+inari,FI,0.7,0.7,0.5,52.9,0.1,213.6,0.0,3.5,Finland,Europe
+inirida,CO,0.5,0.5,0.0,0.8,0.0,207.0,0.0,8.9,Colombia,South America
+invercargill,NZ,0.8,1.2,0.7,55.8,0.7,217.0,1.5,4.3,New Zealand,Oceania
+iqaluit,CA,0.5,1.8,0.0,71.5,0.0,227.0,0.0,3.4,Canada,North America
+irbit,RU,11.6,12.4,9.8,6.2,1.0,350.5,0.5,17.4,Russian Federation,Europe
+isafjordur,IS,0.8,1.7,0.0,83.7,0.0,213.6,0.0,3.6,Iceland,Europe
+isangel,VU,4.4,5.8,0.0,60.8,21.7,227.0,0.0,19.4,Vanuatu,Oceania
+iskateley,RU,0.5,0.6,0.4,40.0,0.0,223.6,0.0,17.4,Russian Federation,Europe
+isola di capo rizzuto,IT,3.8,8.3,0.5,71.5,0.2,201.9,0.8,6.1,Italy,Europe
+jamestown,US,2.1,2.4,6.3,59.4,0.4,220.3,0.2,5.7,United States,North America
+jharsuguda,IN,41.8,46.2,10.1,45.8,13.4,447.3,0.2,30.2,India,Asia
+jimenez,MX,1.9,3.6,4.7,60.8,2.1,213.6,1.7,10.7,Mexico,North America
+jinchang,CN,28.2,105.1,4.4,89.4,5.4,367.2,0.6,26.6,China,Asia
+jining,CN,12.4,14.8,7.9,76.5,5.4,330.4,2.1,26.6,China,Asia
+jirja,EG,13.0,34.8,12.8,37.9,5.1,233.6,24.8,36.2,Egypt,Africa
+kachkanar,RU,4.1,4.4,4.2,24.0,3.2,250.3,0.3,17.4,Russian Federation,Europe
+kamaishi,JP,3.4,7.2,1.1,75.8,1.5,203.6,0.4,5.1,Japan,Asia
+kapa'a,US,2.1,10.2,0.3,60.1,0.1,185.2,0.0,5.7,United States,North America
+karratha,AU,2.5,12.0,0.1,55.8,0.7,227.0,0.2,3.2,Australia,Oceania
+kayar,SN,35.3,153.3,3.8,87.3,3.9,413.9,3.1,23.5,Senegal,Africa
+keflavik,IS,0.5,0.7,0.2,62.9,0.3,220.3,0.1,3.6,Iceland,Europe
+kemijarvi,FI,2.6,3.4,0.7,63.7,0.6,213.6,0.1,3.5,Finland,Europe
+kenai,US,0.5,0.7,1.4,66.5,0.6,237.0,0.0,5.7,United States,North America
+kenora,CA,4.4,5.0,1.0,79.4,1.2,217.0,1.2,3.4,Canada,North America
+kertih,MY,5.0,5.2,4.0,59.4,0.8,417.2,0.1,20.9,Malaysia,Asia
+khandyga,RU,0.5,0.5,0.0,50.1,0.0,240.3,0.0,17.4,Russian Federation,Europe
+kharabali,RU,11.7,24.2,0.2,54.4,0.1,223.6,0.1,17.4,Russian Federation,Europe
+kibre mengist,ET,6.8,12.7,2.2,17.0,0.5,257.0,8.9,17.1,Ethiopia,Africa
+kingisepp,RU,2.2,2.9,2.7,44.4,0.4,233.6,0.1,17.4,Russian Federation,Europe
+kingston,JM,18.5,24.0,28.4,0.3,11.6,1361.8,10.3,7.1,Jamaica,North America
+kirakira,SB,0.5,0.6,0.0,31.5,0.0,220.3,0.0,19.0,Solomon Islands,Oceania
+kisarawe,TZ,4.0,16.8,1.2,31.1,0.4,290.4,1.2,12.9,"Tanzania, United Republic of",Africa
+kismayo,SO,1.6,7.2,0.1,32.9,0.2,237.0,0.2,23.0,Somalia,Africa
+klyuchi,RU,5.5,6.1,1.3,23.6,0.2,250.3,0.5,17.4,Russian Federation,Europe
+knokke,BE,1.8,2.4,7.6,50.8,1.4,217.0,2.6,6.4,Belgium,Europe
+kodiak,US,0.5,0.9,0.2,78.0,0.2,223.6,0.0,5.7,United States,North America
+kokhma,RU,4.1,4.3,17.1,1.3,6.9,383.8,1.6,17.4,Russian Federation,Europe
+kostomuksha,RU,1.5,2.1,1.1,56.5,0.2,213.6,0.0,17.4,Russian Federation,Europe
+kuchera,IN,54.7,82.8,12.7,61.5,2.4,480.6,11.6,30.2,India,Asia
+kudymkar,RU,3.3,3.3,1.2,17.5,0.0,237.0,0.1,17.4,Russian Federation,Europe
+kujang-up,KP,43.7,50.0,2.3,51.5,2.6,353.8,0.3,36.1,"Korea, Democratic People's Republic of",Asia
+kukuna,SL,4.0,4.9,0.8,1.2,0.1,340.5,0.3,34.8,Sierra Leone,Africa
+kutum,SD,45.3,193.7,0.1,61.5,0.2,171.9,0.0,24.8,Sudan,Africa
+kuusamo,FI,1.9,2.4,0.6,61.5,0.4,210.3,0.1,3.5,Finland,Europe
+la passe,FR,1.1,2.9,0.6,72.2,0.3,208.6,0.3,4.1,France,Europe
+la ronge,CA,0.5,0.5,0.2,65.8,0.0,207.0,0.2,3.4,Canada,North America
+la'ie,US,2.7,11.2,0.1,62.9,0.1,186.9,0.0,5.7,United States,North America
+labrador city,CA,0.5,0.7,0.1,65.1,0.0,210.3,0.0,3.4,Canada,North America
+lae,PG,0.9,1.0,1.7,34.7,2.6,191.9,0.0,12.4,Papua New Guinea,Oceania
+lagos,NG,343.2,434.7,19.2,0.0,6.6,5020.1,12.4,29.6,Nigeria,Africa
+laguna,US,2.0,2.1,1.7,85.8,0.1,220.3,0.3,5.7,United States,North America
+lahad datu,MY,1.3,1.5,0.4,19.0,0.0,323.8,1.2,20.9,Malaysia,Asia
+lajinha,BR,2.8,3.4,1.2,29.3,0.1,287.1,1.0,9.6,Brazil,South America
+lampang,TH,29.0,30.3,3.5,47.2,4.4,433.9,0.0,10.0,Thailand,Asia
+lamu,KE,1.3,4.9,0.2,33.6,0.1,243.7,0.1,11.3,Kenya,Africa
+lapy,PL,1.2,1.4,1.3,52.2,0.6,220.3,0.8,17.4,Poland,Europe
+lata,PT,2.4,6.9,3.0,48.6,0.8,208.6,0.4,4.7,Portugal,Europe
+lebu,CL,1.0,2.1,0.0,47.9,0.2,233.6,0.0,7.4,Chile,South America
+lerwick,GB,1.7,3.2,4.3,42.2,1.4,207.0,0.2,5.8,United Kingdom,Europe
+lihue,US,2.3,11.0,0.8,53.6,0.2,186.9,0.1,5.7,United States,North America
+maba,CN,47.8,51.6,11.3,98.7,8.9,343.8,0.0,26.6,China,Asia
+macapa,BR,2.2,8.0,0.3,23.6,0.1,410.6,0.1,9.6,Brazil,South America
+magadan,RU,0.5,0.6,1.5,52.9,1.0,240.3,0.1,17.4,Russian Federation,Europe
+magburaka,SL,4.4,5.4,0.5,0.3,0.1,300.4,0.4,34.8,Sierra Leone,Africa
+mahibadhoo,MV,1.1,4.0,0.0,39.7,0.1,220.3,0.0,11.0,Maldives,Asia
+maisi,GE,0.7,0.8,0.9,42.2,0.2,193.6,0.4,27.0,Georgia,Asia
+malabar,AU,10.4,11.2,10.7,85.8,10.4,283.7,1.1,3.2,Australia,Oceania
+mammoth lakes,US,1.5,1.8,0.4,80.8,0.1,161.9,0.2,5.7,United States,North America
+maralal,KE,1.2,1.7,1.5,23.6,0.1,205.3,4.8,11.3,Kenya,Africa
+margaret river,AU,2.4,9.4,0.1,60.1,0.4,230.3,0.0,3.2,Australia,Oceania
+markovo,RU,0.5,0.5,0.2,60.8,0.2,227.0,0.0,17.4,Russian Federation,Europe
+marsa alam,EG,14.4,37.6,0.2,89.4,1.7,203.6,0.2,36.2,Egypt,Africa
+masaya sur,PH,6.4,7.5,2.9,39.0,0.7,347.1,4.0,29.4,Philippines,Asia
+masterton,NZ,0.9,1.2,0.3,56.5,0.1,205.3,1.2,4.3,New Zealand,Oceania
+mastic beach,US,3.0,4.4,17.5,57.2,1.7,307.1,0.9,5.7,United States,North America
+medina,SA,18.9,56.0,11.8,43.3,13.1,208.6,0.3,33.5,Saudi Arabia,Asia
+mega,ET,0.5,1.0,0.3,26.8,0.0,188.6,0.4,17.1,Ethiopia,Africa
+mezhdurechensk,RU,2.1,2.5,1.3,26.5,1.4,240.3,0.5,17.4,Russian Federation,Europe
+minas de marcona,PE,8.0,20.1,2.1,50.8,0.3,220.3,0.3,9.6,Peru,South America
+miri,MY,4.1,4.3,3.7,61.5,0.8,467.3,0.3,20.9,Malaysia,Asia
+miyaly,KZ,9.8,28.9,0.3,58.6,0.3,220.3,0.0,30.5,Kazakhstan,Asia
+mongoumba,CF,0.7,0.9,0.1,0.1,0.0,181.9,0.1,36.5,Central African Republic,Africa
+mossel bay,ZA,1.0,2.4,0.2,57.9,0.1,220.3,0.1,18.7,South Africa,Africa
+mossoro,BR,1.3,4.7,0.3,39.3,0.1,263.7,0.1,9.6,Brazil,South America
+mount isa,AU,5.2,11.3,0.1,44.7,1.6,267.0,0.3,3.2,Australia,Oceania
+mount pearl,CA,0.5,1.2,0.8,86.6,0.3,207.0,0.0,3.4,Canada,North America
+mucuri,BR,1.8,7.0,0.6,33.3,0.1,283.7,0.1,9.6,Brazil,South America
+mumbwa,ZM,2.2,2.6,0.3,29.7,0.4,260.4,0.2,19.6,Zambia,Africa
+muravlenko,RU,0.9,0.9,0.2,41.1,0.0,233.6,0.0,17.4,Russian Federation,Europe
+mutuali,MZ,3.5,6.7,0.6,15.7,0.1,223.6,0.5,23.9,Mozambique,Africa
+nabire,ID,0.5,0.6,0.0,6.2,0.0,198.6,0.0,20.4,Indonesia,Asia
+nacala,MZ,2.0,4.7,0.3,57.2,0.2,230.3,0.3,23.9,Mozambique,Africa
+nagqu,CN,2.1,3.2,0.4,80.1,0.1,161.9,4.4,26.6,China,Asia
+namibe,AO,13.3,52.0,0.1,64.4,0.4,213.6,0.0,21.6,Angola,Africa
+nantucket,US,0.7,1.5,0.6,105.9,0.6,210.3,0.1,5.7,United States,North America
+nar'yan-mar,RU,0.5,0.6,0.4,40.0,0.0,223.6,0.0,17.4,Russian Federation,Europe
+naze,JP,2.6,9.7,0.4,85.8,0.5,191.9,0.0,5.1,Japan,Asia
+nea alikarnassos,GR,2.2,9.3,0.6,93.0,0.8,212.0,0.3,9.8,Greece,Europe
+nema,RU,1.1,1.2,2.3,17.0,0.0,233.6,0.1,17.4,Russian Federation,Europe
+nemuro,JP,5.1,8.6,0.9,94.4,0.7,250.3,0.1,5.1,Japan,Asia
+new norfolk,AU,1.5,1.6,0.3,37.2,0.2,208.6,0.1,3.2,Australia,Oceania
+nikolayevsk-on-amure,RU,5.0,5.3,0.4,76.5,0.6,253.7,0.7,17.4,Russian Federation,Europe
+nong khae,TH,38.6,49.9,26.0,44.4,9.4,807.8,2.5,10.0,Thailand,Asia
+north platte,US,7.3,9.7,0.9,93.0,0.7,212.0,1.3,5.7,United States,North America
+northam,GB,1.2,4.6,0.3,78.0,0.3,212.0,0.0,5.8,United Kingdom,Europe
+nova vicosa,BR,1.6,7.0,0.4,38.3,0.1,293.7,0.1,9.6,Brazil,South America
+novi di modena,IT,6.7,7.2,3.1,53.6,0.4,240.3,2.1,6.1,Italy,Europe
+noyabrsk,RU,2.0,2.0,1.9,36.5,0.4,240.3,0.0,17.4,Russian Federation,Europe
+okha,RU,7.7,8.2,0.2,76.5,0.7,283.7,1.4,17.4,Russian Federation,Europe
+okhotsk,RU,0.5,0.5,0.1,47.2,0.0,240.3,0.0,17.4,Russian Federation,Europe
+ola,RU,0.5,0.8,0.1,65.8,0.1,237.0,0.0,17.4,Russian Federation,Europe
+oromocto,CA,0.6,0.7,1.9,46.5,0.1,213.6,0.0,3.4,Canada,North America
+pacific grove,US,1.5,4.0,5.3,56.5,0.7,233.6,0.3,5.7,United States,North America
+paharpur,PK,58.8,89.4,3.8,70.8,5.4,574.1,26.4,39.1,Pakistan,Asia
+palu,ID,1.5,2.0,3.1,35.4,2.6,327.1,0.5,20.4,Indonesia,Asia
+papatowai,NZ,0.8,1.3,0.2,47.9,0.1,212.0,1.8,4.3,New Zealand,Oceania
+pemangkat,ID,4.4,5.4,0.5,40.8,0.3,360.5,0.4,20.4,Indonesia,Asia
+petropavlovsk-kamchatsky,RU,0.5,0.6,0.1,65.8,0.0,217.0,0.0,17.4,Russian Federation,Europe
+phalaborwa,ZA,2.1,4.0,1.1,20.2,1.1,227.0,1.6,18.7,South Africa,Africa
+pierre,US,9.4,11.4,1.3,77.2,0.6,223.6,1.8,5.7,United States,North America
+pimentel,PE,4.6,11.3,0.6,50.1,0.4,247.0,0.0,9.6,Peru,South America
+plastun,RU,8.1,12.3,0.4,83.7,0.7,230.3,0.0,17.4,Russian Federation,Europe
+ponta delgada,PT,1.3,6.0,0.3,98.7,0.2,198.6,0.0,4.7,Portugal,Europe
+pordic,FR,1.3,3.3,1.4,56.5,0.4,208.6,1.5,4.1,France,Europe
+port alfred,ZA,1.8,5.3,0.6,54.4,0.6,223.6,0.4,18.7,South Africa,Africa
+port augusta,AU,0.5,0.8,0.1,54.4,0.1,280.4,0.1,3.2,Australia,Oceania
+port blair,IN,0.6,0.9,1.2,44.4,0.2,230.3,0.0,30.2,India,Asia
+port douglas,AU,2.6,6.4,0.0,46.5,0.1,223.6,0.0,3.2,Australia,Oceania
+port elizabeth,ZA,1.0,2.0,0.6,58.6,0.8,227.0,0.3,18.7,South Africa,Africa
+port lincoln,AU,1.2,4.5,0.1,50.1,0.1,217.0,0.0,3.2,Australia,Oceania
+port mathurin,MU,0.9,4.3,0.0,76.5,0.2,247.0,0.0,9.9,Mauritius,Africa
+port saint john's,ZA,4.3,10.4,0.7,62.2,0.6,237.0,0.4,18.7,South Africa,Africa
+porto san giorgio,IT,12.6,15.1,3.6,8.8,0.3,287.1,5.0,6.1,Italy,Europe
+prado,BR,1.6,6.5,0.5,32.9,0.1,290.4,0.2,9.6,Brazil,South America
+praia da vitoria,PT,1.9,8.6,0.3,94.4,0.2,198.6,0.0,4.7,Portugal,Europe
+puerto ayacucho,VE,3.7,3.8,4.3,8.2,0.2,440.6,0.4,12.8,"Venezuela, Bolivarian Republic of",South America
+puerto ayora,EC,2.8,8.6,0.5,36.1,0.1,280.4,0.1,8.5,Ecuador,South America
+puerto aysen,CL,0.5,0.6,0.2,34.0,0.0,212.0,0.0,7.4,Chile,South America
+puerto baquerizo moreno,EC,2.9,9.5,0.1,40.8,0.2,283.7,0.0,8.5,Ecuador,South America
+puerto carreno,CO,2.0,2.0,3.1,10.3,0.2,347.1,0.8,8.9,Colombia,South America
+puerto deseado,AR,0.8,1.6,0.4,51.5,0.0,243.7,0.6,10.7,Argentina,South America
+puerto natales,CL,0.5,0.5,0.3,42.9,0.0,247.0,0.6,7.4,Chile,South America
+punta arenas,CL,0.5,0.5,0.2,41.1,0.0,227.0,0.3,7.4,Chile,South America
+pyhajarvi,FI,3.0,3.6,0.7,69.4,0.5,220.3,0.0,3.5,Finland,Europe
+qingdao,CN,25.4,29.5,13.2,100.1,14.2,447.3,1.2,26.6,China,Asia
+qinhuangdao,CN,35.4,37.0,5.5,68.0,3.9,340.5,0.5,26.6,China,Asia
+queenstown,ZA,12.5,18.9,2.9,27.9,0.8,247.0,2.0,18.7,South Africa,Africa
+quellon,CL,0.7,1.2,0.1,30.4,0.0,217.0,0.3,7.4,Chile,South America
+rabo de peixe,PT,1.2,5.5,0.4,94.4,0.3,198.6,0.0,4.7,Portugal,Europe
+raja,SS,0.6,0.8,0.1,1.6,0.0,165.2,0.2,14.7,South Sudan,Africa
+rawson,AR,0.9,3.5,1.5,42.6,0.1,253.7,1.6,10.7,Argentina,South America
+ribeira grande,PT,2.3,12.2,0.2,104.4,0.2,198.6,0.0,4.7,Portugal,Europe
+safi,MA,4.6,10.4,2.0,62.9,4.6,208.6,0.0,19.9,Morocco,Africa
+saint john,CA,0.6,0.9,2.5,30.8,0.1,198.6,0.2,3.4,Canada,North America
+saint-flour,FR,0.5,0.5,1.0,43.6,0.0,186.9,0.4,4.1,France,Europe
+saldanha,ZA,0.9,4.0,0.3,62.9,0.5,230.3,0.0,18.7,South Africa,Africa
+salinopolis,BR,2.0,9.2,0.0,46.5,0.1,420.6,0.1,9.6,Brazil,South America
+salmon arm,CA,0.5,0.8,2.8,46.5,0.4,223.6,1.3,3.4,Canada,North America
+samamiya,NG,22.6,60.2,1.7,15.4,0.2,400.5,2.6,29.6,Nigeria,Africa
+san antonio de pale,GQ,1.9,5.2,0.0,25.8,0.1,373.8,0.0,20.6,Equatorial Guinea,Africa
+san felipe,VE,38.1,39.0,16.6,30.0,8.1,754.4,0.9,12.8,"Venezuela, Bolivarian Republic of",South America
+san luis de la loma,MX,9.3,10.4,1.3,18.2,0.1,196.9,0.6,10.7,Mexico,North America
+san patricio,US,3.4,7.1,0.9,87.3,0.5,213.6,0.7,5.7,United States,North America
+san rafael,AR,1.0,3.9,0.6,44.0,0.1,220.3,0.6,10.7,Argentina,South America
+santa cruz,BO,20.8,21.7,6.4,25.0,0.5,1321.8,1.3,18.7,"Bolivia, Plurinational State of",South America
+santa sylvina,AR,3.2,3.2,0.8,30.8,0.1,303.8,0.2,10.7,Argentina,South America
+santyoku,KR,3.6,7.6,11.8,83.7,7.6,243.7,0.2,7.8,"Korea, Republic of",Asia
+sao joao da barra,BR,5.2,14.0,4.4,24.3,1.8,310.4,0.6,9.6,Brazil,South America
+sao jose da coroa grande,BR,1.6,6.1,1.0,42.2,0.2,293.7,0.3,9.6,Brazil,South America
+sarina,AU,2.0,7.6,0.1,59.4,0.2,223.6,0.0,3.2,Australia,Oceania
+savanna-la-mar,JM,7.3,8.6,9.8,15.9,3.1,614.2,2.5,7.1,Jamaica,North America
+shendi,SD,58.6,241.4,0.3,61.5,0.7,188.6,0.2,24.8,Sudan,Africa
+shenkursk,RU,0.7,0.8,0.8,53.6,0.0,223.6,0.0,17.4,Russian Federation,Europe
+sidney,AU,10.4,11.2,10.7,85.8,10.4,283.7,1.1,3.2,Australia,Oceania
+silifke,TR,0.8,1.2,1.5,73.7,0.9,220.3,1.2,13.9,Türkiye,Asia
+simpang,ID,23.0,26.7,0.6,48.6,0.8,417.2,0.7,20.4,Indonesia,Asia
+sinabang,ID,0.6,0.7,0.5,26.8,0.2,267.0,0.5,20.4,Indonesia,Asia
+sirte,LY,7.4,26.6,0.2,107.3,0.6,205.3,0.0,17.6,Libya,Africa
+sitka,US,0.6,0.8,0.4,77.2,0.3,217.0,0.0,5.7,United States,North America
+smithers,CA,0.5,0.6,1.9,40.8,0.3,227.0,0.2,3.4,Canada,North America
+soe,ID,3.4,5.6,1.0,52.2,0.3,310.4,1.4,20.4,Indonesia,Asia
+sol'-iletsk,RU,11.5,27.0,3.3,42.6,3.2,250.3,0.2,17.4,Russian Federation,Europe
+solleftea,SE,1.9,1.9,0.6,56.5,0.1,217.0,0.0,3.7,Sweden,Europe
+st. john's,CA,0.5,1.2,0.8,86.6,0.3,207.0,0.0,3.4,Canada,North America
+stanley,GB,0.5,0.8,2.9,35.8,0.4,198.6,0.8,5.8,United Kingdom,Europe
+sterling,US,4.2,4.9,10.2,50.8,0.4,273.7,1.0,5.7,United States,North America
+susuman,RU,0.5,0.5,0.0,46.5,0.0,223.6,0.0,17.4,Russian Federation,Europe
+svetlyy yar,RU,3.7,4.0,1.4,65.1,0.5,223.6,0.1,17.4,Russian Federation,Europe
+talitsa,RU,10.7,14.3,11.5,29.0,5.5,287.1,0.1,17.4,Russian Federation,Europe
+talnakh,RU,0.5,0.6,0.6,72.2,3.5,253.7,0.0,17.4,Russian Federation,Europe
+tamandare,BR,2.7,7.8,2.8,39.3,0.3,333.8,0.6,9.6,Brazil,South America
+tanjung pinang,ID,15.8,17.3,0.8,98.7,0.8,567.4,0.5,20.4,Indonesia,Asia
+taoudenni,ML,49.4,211.9,0.0,43.3,0.0,198.6,0.0,24.3,Mali,Africa
+tarfaya,MA,4.8,25.6,0.2,85.1,0.4,201.9,0.0,19.9,Morocco,Africa
+tarija,BO,6.9,7.2,1.5,59.4,0.4,714.3,0.5,18.7,"Bolivia, Plurinational State of",South America
+tazacorte,ES,3.1,15.3,0.2,89.4,0.3,195.3,0.0,4.2,Spain,Europe
+tazovsky,RU,0.5,1.6,0.2,65.1,0.0,230.3,0.0,17.4,Russian Federation,Europe
+tegina,NG,7.2,9.5,0.5,15.4,0.0,507.4,0.5,29.6,Nigeria,Africa
+thinadhoo,MV,1.9,9.7,0.0,47.9,0.1,223.6,0.0,11.0,Maldives,Asia
+thompson,CA,2.6,2.7,0.6,34.0,0.2,212.0,0.1,3.4,Canada,North America
+tiksi,RU,0.5,0.5,0.0,86.6,0.0,240.3,0.0,17.4,Russian Federation,Europe
+tobelo,ID,0.5,0.6,0.2,11.4,0.0,220.3,0.1,20.4,Indonesia,Asia
+tolanaro,MG,1.5,3.7,0.2,38.6,0.1,227.0,0.2,21.1,Madagascar,Africa
+toliara,MG,4.0,5.7,0.4,37.6,0.1,260.4,0.9,21.1,Madagascar,Africa
+tommot,RU,0.5,0.5,0.2,47.9,0.0,227.0,0.0,17.4,Russian Federation,Europe
+tonghae,KR,3.6,7.6,11.8,83.7,7.6,243.7,0.2,7.8,"Korea, Republic of",Asia
+tongouson,PH,1.2,1.3,0.4,25.0,0.1,340.5,0.2,29.4,Philippines,Asia
+tonj,SS,1.2,2.1,0.6,1.0,0.0,223.6,0.4,14.7,South Sudan,Africa
+trairi,BR,1.8,7.4,0.2,51.5,0.1,363.8,0.1,9.6,Brazil,South America
+tralee,IE,1.7,3.3,0.5,85.8,0.3,205.3,0.3,5.5,Ireland,Europe
+tura,IN,65.5,71.1,2.2,39.0,0.9,520.7,2.5,30.2,India,Asia
+ubinskoye,RU,5.6,6.1,2.4,26.1,0.5,243.7,0.8,17.4,Russian Federation,Europe
+udachny,RU,0.5,0.5,0.1,53.6,0.1,223.6,0.0,17.4,Russian Federation,Europe
+umm kaddadah,SD,62.3,251.6,0.1,55.1,0.3,175.2,0.0,24.8,Sudan,Africa
+ushuaia,AR,0.5,2.9,0.4,27.5,0.1,213.6,0.2,10.7,Argentina,South America
+usinsk,RU,0.5,0.5,0.2,51.5,0.0,227.0,0.0,17.4,Russian Federation,Europe
+ust-nera,RU,0.5,0.6,0.0,47.2,0.0,213.6,0.0,17.4,Russian Federation,Europe
+vadso,NO,0.6,0.6,0.5,47.2,0.0,217.0,0.0,3.6,Norway,Europe
+vakhrushi,RU,0.5,0.8,1.3,13.0,0.0,230.3,0.0,17.4,Russian Federation,Europe
+vikhorevka,RU,0.5,0.5,0.3,76.5,0.1,227.0,0.0,17.4,Russian Federation,Europe
+vila franca do campo,PT,1.2,5.5,0.4,94.4,0.3,198.6,0.0,4.7,Portugal,Europe
+vila velha,BR,1.8,5.3,2.8,19.0,0.9,270.4,0.4,9.6,Brazil,South America
+villa gesell,AR,2.8,5.2,0.7,50.1,0.1,260.4,0.4,10.7,Argentina,South America
+vilyuchinsk,RU,0.5,0.6,0.1,66.5,0.1,223.6,0.0,17.4,Russian Federation,Europe
+vorgashor,RU,0.5,0.8,0.5,53.6,0.2,227.0,0.0,17.4,Russian Federation,Europe
+vorkuta,RU,0.5,0.8,1.2,53.6,0.4,230.3,0.0,17.4,Russian Federation,Europe
+wad az zaki,SD,34.0,116.9,0.6,53.6,0.9,205.3,0.9,24.8,Sudan,Africa
+wailua homesteads,US,2.1,10.2,0.3,60.1,0.1,185.2,0.0,5.7,United States,North America
+wainwright,CA,0.5,0.6,3.1,60.1,2.3,208.6,2.1,3.4,Canada,North America
+waitangi,NZ,0.6,1.9,0.0,55.8,0.1,227.0,0.0,4.3,New Zealand,Oceania
+weno,FM,0.5,1.0,0.1,19.3,0.0,176.9,0.0,17.1,"Micronesia, Federated States of",Oceania
+whakatane,NZ,4.0,4.6,0.1,59.4,12.4,220.3,0.0,4.3,New Zealand,Oceania
+whitehorse,CA,0.5,0.5,0.4,62.9,0.1,220.3,0.0,3.4,Canada,North America
+wynyard,AU,3.3,3.6,3.0,49.4,0.8,247.0,0.0,3.2,Australia,Oceania
+xai-xai,MZ,1.7,4.7,0.4,52.2,0.2,233.6,0.5,23.9,Mozambique,Africa
+xingcheng,CN,3.9,4.7,4.0,55.1,2.5,247.0,1.4,26.6,China,Asia
+xining,CN,50.2,58.5,26.0,68.7,31.0,433.9,0.1,26.6,China,Asia
+xiongzhou,CN,55.7,61.1,6.6,110.2,11.0,313.8,0.0,26.6,China,Asia
+yanchep,AU,1.6,6.4,0.1,54.4,0.2,223.6,0.1,3.2,Australia,Oceania
+yellowknife,CA,0.5,0.5,0.0,50.1,0.0,217.0,0.0,3.4,Canada,North America
+yeniseysk,RU,0.5,0.6,1.1,70.1,0.9,233.6,0.2,17.4,Russian Federation,Europe
+yerbabuena,MX,0.9,1.2,2.4,62.2,0.5,181.9,0.9,10.7,Mexico,North America
+yetkul',RU,9.8,12.5,20.9,9.7,7.8,390.5,2.5,17.4,Russian Federation,Europe
+yueyang,CN,28.9,32.6,24.7,22.4,12.8,701.0,1.1,26.6,China,Asia
+yuzhno-kurilsk,RU,1.5,2.8,0.4,98.7,0.5,213.6,0.1,17.4,Russian Federation,Europe
+zag,MN,0.6,2.0,0.2,70.1,0.4,173.6,0.1,44.3,Mongolia,Asia
+zaragoza,ES,0.5,0.7,0.9,67.2,0.1,203.6,1.0,4.2,Spain,Europe
+zavoronezhskoye,RU,1.0,1.1,0.7,75.8,0.1,227.0,0.1,17.4,Russian Federation,Europe
+zhangatas,KZ,4.6,15.4,2.0,54.4,3.7,230.3,0.1,30.5,Kazakhstan,Asia
+zhangjiakou,CN,3.3,9.9,1.9,62.2,0.9,200.3,3.4,26.6,China,Asia
+zvishavane,ZW,2.7,4.7,1.2,19.0,0.4,233.6,0.8,21.2,Zimbabwe,Africa
