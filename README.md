@@ -51,7 +51,8 @@ To run this project locally, follow these steps:
 
 3. **Install the required dependencies**:
     ```bash
-    pip install -r requirements.txt
+    pip install matplotlib hvplot pandas scipy numpy
+
 
 ### 2. API Key Setup
 
