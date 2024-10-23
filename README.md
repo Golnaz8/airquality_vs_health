@@ -52,7 +52,7 @@ To run this project locally, follow these steps:
 3. **Install the required dependencies**:
     ```bash
     pip install matplotlib hvplot pandas scipy numpy
-
+    pip install pycountry-convert
 
 ### 2. API Key Setup
 
